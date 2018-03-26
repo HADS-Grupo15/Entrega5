@@ -1,0 +1,24 @@
+<?xml version="1.0" standalone="yes" ?>
+<tareas  xmlns:has="http://ji.ehu.es/has">
+  <tarea codigo= "HAS18-Test1">
+    <descripcion>Test 5 de la asignatura</descripcion>
+    <hestimadas>1</hestimadas>
+    <explotacion>false</explotacion>
+    <tipotarea>Examen</tipotarea>
+  </tarea>
+  <tarea codigo="HAS18-Lab4">
+    <descripcion>Laboratorio 12</descripcion>
+    <hestimadas>12</hestimadas>
+    <explotacion>true</explotacion>
+    <tipotarea>Laboratorio</tipotarea>
+  </tarea>
+<<<<<<< HEAD
+=======
+  <tarea codigo="PruebaDynamic">
+    <descripcion>Probando</descripcion>
+    <hestimadas>12</hestimadas>
+    <explotacion>true</explotacion>
+    <tipotarea>Ejercicio</tipotarea>
+  </tarea>
+>>>>>>> fba0da41f83f019171340ecbc7fb8f5c6abc2cdf
+</tareas>

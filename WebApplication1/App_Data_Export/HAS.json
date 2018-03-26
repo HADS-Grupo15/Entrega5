@@ -1,0 +1,138 @@
+[
+  {
+    "Codigo": "01Prueba",
+    "Descripcion": "Es una prueba",
+    "CodAsig": "HAS",
+    "HEstimadas": 33,
+    "Explotacion": false,
+    "TipoTarea": "Ejercicio"
+  },
+  {
+    "Codigo": "Blanco",
+    "Descripcion": "Blanco",
+    "CodAsig": "HAS",
+    "HEstimadas": 3,
+    "Explotacion": false,
+    "TipoTarea": "Laboratorio"
+  },
+  {
+    "Codigo": "dnfnis",
+    "Descripcion": "Una tarea mas",
+    "CodAsig": "HAS",
+    "HEstimadas": 40,
+    "Explotacion": false,
+    "TipoTarea": "Laboratorio"
+  },
+  {
+    "Codigo": "GIS-Lab4",
+    "Descripcion": "ddfdfdf",
+    "CodAsig": "HAS",
+    "HEstimadas": 6,
+    "Explotacion": true,
+    "TipoTarea": "Laboratorio"
+  },
+  {
+    "Codigo": "HAS08-Lab10",
+    "Descripcion": "aaaa",
+    "CodAsig": "HAS",
+    "HEstimadas": 10,
+    "Explotacion": true,
+    "TipoTarea": "Laboratorio"
+  },
+  {
+    "Codigo": "HAS08-Lab12",
+    "Descripcion": "Laboratorio 12 de la asignatura",
+    "CodAsig": "HAS",
+    "HEstimadas": 12,
+    "Explotacion": true,
+    "TipoTarea": "Laboratorio"
+  },
+  {
+    "Codigo": "HAS08-Test5",
+    "Descripcion": "Test 5 de la asignatura",
+    "CodAsig": "HAS",
+    "HEstimadas": 3,
+    "Explotacion": false,
+    "TipoTarea": "examen"
+  },
+  {
+    "Codigo": "HAS11-LAB4",
+    "Descripcion": "lalalalal",
+    "CodAsig": "HAS",
+    "HEstimadas": 20,
+    "Explotacion": true,
+    "TipoTarea": "Laboratorio"
+  },
+  {
+    "Codigo": "Lab4",
+    "Descripcion": "lelelelelelelel",
+    "CodAsig": "HAS",
+    "HEstimadas": 12,
+    "Explotacion": true,
+    "TipoTarea": "Laboratorio"
+  },
+  {
+    "Codigo": "p",
+    "Descripcion": "hhh",
+    "CodAsig": "HAS",
+    "HEstimadas": 7,
+    "Explotacion": false,
+    "TipoTarea": "Laboratorio"
+  },
+  {
+    "Codigo": "ProbandoScript",
+    "Descripcion": "Probando Script",
+    "CodAsig": "HAS",
+    "HEstimadas": 1,
+    "Explotacion": false,
+    "TipoTarea": "Laboratorio"
+  },
+  {
+    "Codigo": "prueb",
+    "Descripcion": "OSCAR",
+    "CodAsig": "HAS",
+    "HEstimadas": 3,
+    "Explotacion": false,
+    "TipoTarea": "Laboratorio"
+  },
+  {
+    "Codigo": "Prueba18",
+    "Descripcion": "Prueba",
+    "CodAsig": "HAS",
+    "HEstimadas": 12,
+    "Explotacion": true,
+    "TipoTarea": "Laboratorio"
+  },
+  {
+    "Codigo": "Script",
+    "Descripcion": "Script",
+    "CodAsig": "HAS",
+    "HEstimadas": 5,
+    "Explotacion": false,
+    "TipoTarea": "Laboratorio"
+  },
+  {
+    "Codigo": "South Park",
+    "Descripcion": "South Park",
+    "CodAsig": "HAS",
+    "HEstimadas": 2,
+    "Explotacion": false,
+    "TipoTarea": "Laboratorio"
+  },
+  {
+    "Codigo": "Test1",
+    "Descripcion": "10 preguntas ....",
+    "CodAsig": "HAS",
+    "HEstimadas": 1,
+    "Explotacion": true,
+    "TipoTarea": "Laboratorio"
+  },
+  {
+    "Codigo": "Urko",
+    "Descripcion": "fgsgf",
+    "CodAsig": "HAS",
+    "HEstimadas": 5,
+    "Explotacion": false,
+    "TipoTarea": "Laboratorio"
+  }
+]

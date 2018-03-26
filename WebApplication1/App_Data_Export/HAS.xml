@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<tareas xmlns:has="http://ji.ehu.es/has">
+  <tarea codigo="01Prueba">
+    <descripcion>Es una prueba</descripcion>
+    <hestimadas>33</hestimadas>
+    <explotacion>False</explotacion>
+    <tipotarea>Ejercicio</tipotarea>
+  </tarea>
+  <tarea codigo="Blanco">
+    <descripcion>Blanco</descripcion>
+    <hestimadas>3</hestimadas>
+    <explotacion>False</explotacion>
+    <tipotarea>Laboratorio</tipotarea>
+  </tarea>
+  <tarea codigo="dnfnis">
+    <descripcion>Una tarea mas</descripcion>
+    <hestimadas>40</hestimadas>
+    <explotacion>False</explotacion>
+    <tipotarea>Laboratorio</tipotarea>
+  </tarea>
+  <tarea codigo="GIS-Lab4">
+    <descripcion>ddfdfdf</descripcion>
+    <hestimadas>6</hestimadas>
+    <explotacion>True</explotacion>
+    <tipotarea>Laboratorio</tipotarea>
+  </tarea>
+  <tarea codigo="HAS08-Lab10">
+    <descripcion>aaaa</descripcion>
+    <hestimadas>10</hestimadas>
+    <explotacion>True</explotacion>
+    <tipotarea>Laboratorio</tipotarea>
+  </tarea>
+  <tarea codigo="HAS08-Lab12">
+    <descripcion>Laboratorio 12 de la asignatura</descripcion>
+    <hestimadas>12</hestimadas>
+    <explotacion>True</explotacion>
+    <tipotarea>Laboratorio</tipotarea>
+  </tarea>
+  <tarea codigo="HAS08-Test5">
+    <descripcion>Test 5 de la asignatura</descripcion>
+    <hestimadas>3</hestimadas>
+    <explotacion>False</explotacion>
+    <tipotarea>examen</tipotarea>
+  </tarea>
+  <tarea codigo="HAS11-LAB4">
+    <descripcion>lalalalal</descripcion>
+    <hestimadas>20</hestimadas>
+    <explotacion>True</explotacion>
+    <tipotarea>Laboratorio</tipotarea>
+  </tarea>
+  <tarea codigo="Lab4">
+    <descripcion>lelelelelelelel</descripcion>
+    <hestimadas>12</hestimadas>
+    <explotacion>True</explotacion>
+    <tipotarea>Laboratorio</tipotarea>
+  </tarea>
+  <tarea codigo="p">
+    <descripcion>hhh</descripcion>
+    <hestimadas>7</hestimadas>
+    <explotacion>False</explotacion>
+    <tipotarea>Laboratorio</tipotarea>
+  </tarea>
+  <tarea codigo="ProbandoScript">
+    <descripcion>Probando Script</descripcion>
+    <hestimadas>1</hestimadas>
+    <explotacion>False</explotacion>
+    <tipotarea>Laboratorio</tipotarea>
+  </tarea>
+  <tarea codigo="prueb">
+    <descripcion>OSCAR</descripcion>
+    <hestimadas>3</hestimadas>
+    <explotacion>False</explotacion>
+    <tipotarea>Laboratorio</tipotarea>
+  </tarea>
+  <tarea codigo="Prueba18">
+    <descripcion>Prueba</descripcion>
+    <hestimadas>12</hestimadas>
+    <explotacion>True</explotacion>
+    <tipotarea>Laboratorio</tipotarea>
+  </tarea>
+  <tarea codigo="Script">
+    <descripcion>Script</descripcion>
+    <hestimadas>5</hestimadas>
+    <explotacion>False</explotacion>
+    <tipotarea>Laboratorio</tipotarea>
+  </tarea>
+  <tarea codigo="South Park">
+    <descripcion>South Park</descripcion>
+    <hestimadas>2</hestimadas>
+    <explotacion>False</explotacion>
+    <tipotarea>Laboratorio</tipotarea>
+  </tarea>
+  <tarea codigo="Test1">
+    <descripcion>10 preguntas ....</descripcion>
+    <hestimadas>1</hestimadas>
+    <explotacion>True</explotacion>
+    <tipotarea>Laboratorio</tipotarea>
+  </tarea>
+  <tarea codigo="Urko">
+    <descripcion>fgsgf</descripcion>
+    <hestimadas>5</hestimadas>
+    <explotacion>False</explotacion>
+    <tipotarea>Laboratorio</tipotarea>
+  </tarea>
+</tareas>
